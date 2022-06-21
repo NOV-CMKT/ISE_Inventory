@@ -313,36 +313,12 @@
   },
   {
     "Product Line": "Frac Pumping Equipment",
-    "Product Family": "Stock Engine",
-    "Product Model": "3512C",
-    "Facility Name": "Rolligon Anderson",
-    "Part No": "",
-    "Description": "Engine, CAT 3512C, Tier 2 Export, 2250HP",
-    "Net QTY": "Multiple",
-    "Overstock Unit Price": "-",
-    "Overstock Ext Price": "-",
-    "Incentive Unit Price": "Call For Pricing"
-  },
-  {
-    "Product Line": "Frac Pumping Equipment",
     "Product Family": "Stock Radiator",
     "Product Model": "",
     "Facility Name": "Rolligon Anderson",
     "Part No": "",
     "Description": "Radiator, CAT C18",
     "Net QTY": 2,
-    "Overstock Unit Price": "-",
-    "Overstock Ext Price": "-",
-    "Incentive Unit Price": "Call For Pricing"
-  },
-  {
-    "Product Line": "Frac Pumping Equipment",
-    "Product Family": "Stock Radiator",
-    "Product Model": "",
-    "Facility Name": "Rolligon Anderson",
-    "Part No": "",
-    "Description": "Radiator, CAT 3512C, Jumbotron, GHT",
-    "Net QTY": "Multiple",
     "Overstock Unit Price": "-",
     "Overstock Ext Price": "-",
     "Incentive Unit Price": "Call For Pricing"
