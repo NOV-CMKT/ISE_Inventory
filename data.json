@@ -240,42 +240,6 @@
     "Incentive Unit Price": "Call For Pricing"
   },
   {
-    "Product Line": "Frac Pumping Equipment",
-    "Product Family": "Stock Engine",
-    "Product Model": "C13",
-    "Facility Name": "Rolligon Anderson",
-    "Part No": "",
-    "Description": "Engine, CAT C13, Tier 3 Export, 440hp",
-    "Net QTY": 2,
-    "Overstock Unit Price": "-",
-    "Overstock Ext Price": "-",
-    "Incentive Unit Price": "Call For Pricing"
-  },
-  {
-    "Product Line": "Frac Pumping Equipment",
-    "Product Family": "Stock Engine",
-    "Product Model": "C18",
-    "Facility Name": "Rolligon Anderson",
-    "Part No": "",
-    "Description": "Engine, CAT C18, Tier 3 Export, 700hp",
-    "Net QTY": 2,
-    "Overstock Unit Price": "-",
-    "Overstock Ext Price": "-",
-    "Incentive Unit Price": "Call For Pricing"
-  },
-  {
-    "Product Line": "Frac Pumping Equipment",
-    "Product Family": "Stock Radiator",
-    "Product Model": "",
-    "Facility Name": "Rolligon Anderson",
-    "Part No": "",
-    "Description": "Radiator, CAT C18",
-    "Net QTY": 2,
-    "Overstock Unit Price": "-",
-    "Overstock Ext Price": "-",
-    "Incentive Unit Price": "Call For Pricing"
-  },
-  {
     "Product Line": "Proppant Handling",
     "Product Family": "SandBank",
     "Product Model": "SB3",
