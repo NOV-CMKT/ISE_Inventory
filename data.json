@@ -108,30 +108,6 @@
     "Unit Price": "Call For Pricing"
   },
   {
-    "Product Line": "Nitrogen Pumping",
-    "Product Family": "Nitrogen Unit, Trailer",
-    "Product Model": "",
-    "Facility Name": "ISE Dammam",
-    "Part No": "",
-    "Description": "180K SCFH Non-Fired N2 Trailer",
-    "Net QTY": 1,
-    "Overstock Unit Price": 945000,
-    "Overstock Ext Price": 945000,
-    "Unit Price": 865000
-  },
-  {
-    "Product Line": "Nitrogen Pumping",
-    "Product Family": "Nitrogen Unit, Trailer",
-    "Product Model": "",
-    "Facility Name": "ISE Dubai",
-    "Part No": "",
-    "Description": "180K SCFH Non-Fired N2 Trailer",
-    "Net QTY": 2,
-    "Overstock Unit Price": 945000,
-    "Overstock Ext Price": 1890000,
-    "Unit Price": 865000
-  },
-  {
     "Product Line": "Frac Pumping Equipment",
     "Product Family": "Frac Unit",
     "Product Model": "QPT-2501",
