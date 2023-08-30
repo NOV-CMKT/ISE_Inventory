@@ -288,6 +288,30 @@
     "Unit Price": "Call For Pricing"
   },
   {
+    "Product Line": "Cementing",
+    "Product Family": "Jet Mixer",
+    "Product Model": "",
+    "Facility Name": "Wilco Duncan",
+    "Part No": "302500",
+    "Description": "Assembly, Ground Mixer, Jet, With 3 Jets",
+    "Net QTY": 1,
+    "Overstock Unit Price": "-",
+    "Overstock Ext Price": "-",
+    "Unit Price": "Call For Pricing"
+  },  
+  {
+    "Product Line": "Cementing",
+    "Product Family": "Sample Catcher",
+    "Product Model": "",
+    "Facility Name": "Wilco Duncan",
+    "Part No": "400465",
+    "Description": "Assembly, Automatic Samble Catcher",
+    "Net QTY": 3,
+    "Overstock Unit Price": "-",
+    "Overstock Ext Price": "-",
+    "Unit Price": "Call For Pricing"
+  },
+  {
     "Product Line": "Wireline Pressure Control Equipment",
     "Product Family": "Wireline Pressure Control Equipment",
     "Product Model": "",
