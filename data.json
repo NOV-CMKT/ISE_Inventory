@@ -69,67 +69,31 @@
     "Net QTY": 1,
     "Overstock Unit Price": "-",
     "Overstock Ext Price": "-",
-    "Unit Price": "Call For Pricing"
-  },
-  {
-    "Product Line": "Coiled Tubing PCE",
-    "Product Family": "CT Stripper Packers",
-    "Product Model": "DSH6",
-    "Facility Name": "Texas Oil Tools Conroe",
-    "Part No": "M60DSH6-1365B",
-    "Description": "SIDE DOOR STRIPPER PACKER, 3.06 thru bore, 3.06 15M CB36 Bottom Union",
-    "Net QTY": 1,
-    "Overstock Unit Price": "-",
-    "Overstock Ext Price": "-",
-    "Unit Price": "Call For Pricing"
-  },
-  {
-    "Product Line": "Coiled Tubing PCE",
-    "Product Family": "CT Stripper Packers",
-    "Product Model": "DSW6",
-    "Facility Name": "Texas Oil Tools Conroe",
-    "Part No": "M60DSW6-0565X",
-    "Description": "2DOOR, 4.06 thru bore, 4.06 15M CB56 Bottom Union",
-    "Net QTY": 1,
-    "Overstock Unit Price": "-",
-    "Overstock Ext Price": "-",
-    "Unit Price": "Call For Pricing"
+    "Unit Price": "CALL FOR PRICING"
   },
   {
     "Product Line": "Coiled Tubing PCE",
     "Product Family": "CT Blowout Preventors (BOPs)",
-    "Product Model": "ES56L",
+    "Product Model": "ES46L",
     "Facility Name": "Texas Oil Tools Conroe",
-    "Part No": "M60TOT-ES56L511X",
-    "Description": "QUAD,5.12, 15M, H2S, BX169 Flanges, with CB56 Box flange",
+    "Part No": "TBD",
+    "Description": "QUAD, 4.06, 15M, H2S, BX155, STUDDED (UP), OPEN (DOWN), NO ADAPTER FLANGES, DRESSED FOR 2.00\" CT",
     "Net QTY": 1,
-    "Overstock Unit Price": "-",
-    "Overstock Ext Price": "-",
-    "Unit Price": "Call For Pricing"
+    "Overstock Unit Price": "",
+    "Overstock Ext Price": "",
+    "Unit Price": "CERTIFIED PRE-OWNED (CPO)"
   },
   {
     "Product Line": "Coiled Tubing PCE",
     "Product Family": "CT Blowout Preventors (BOPs)",
-    "Product Model": "ES56N",
+    "Product Model": "ES46L",
     "Facility Name": "Texas Oil Tools Conroe",
-    "Part No": "M60TOT-ES56NA442X",
-    "Description": "DUAL COMBI,5.12, 15M, H2S, BX169 Flanges, LG SH/SL, NO DEBOOSTER",
+    "Part No": "TBD",
+    "Description": "QUAD, 4.06, 15M, H2S, BX155, STUDDED (UP), OPEN (DOWN), NO ADAPTER FLANGES, DRESSED FOR 1.25\" CT",
     "Net QTY": 1,
-    "Overstock Unit Price": "-",
-    "Overstock Ext Price": "-",
-    "Unit Price": "Call For Pricing"
-  },
-  {
-    "Product Line": "Coiled Tubing PCE",
-    "Product Family": "CT Blowout Preventors (BOPs)",
-    "Product Model": "ES36L",
-    "Facility Name": "Texas Oil Tools Conroe",
-    "Part No": "M60TOT-ES36L444XB",
-    "Description": "QUAD,3.06,15M,H2S, BX154 Flanges, with CB36 Adapter Flanges",
-    "Net QTY": 1,
-    "Overstock Unit Price": "-",
-    "Overstock Ext Price": "-",
-    "Unit Price": "Call For Pricing"
+    "Overstock Unit Price": "",
+    "Overstock Ext Price": "",
+    "Unit Price": "CERTIFIED PRE-OWNED (CPO)"
   },
   {
     "Product Line": "Frac Pumping Equipment",
@@ -177,7 +141,7 @@
     "Net QTY": 2,
     "Overstock Unit Price": "-",
     "Overstock Ext Price": "-",
-    "Unit Price": "26289"
+    "Unit Price": 26289
   },
   {
     "Product Line": "Frac Pumping Equipment",
@@ -189,7 +153,7 @@
     "Net QTY": 1,
     "Overstock Unit Price": "-",
     "Overstock Ext Price": "-",
-    "Unit Price": "45717"
+    "Unit Price": 45717
   },
   {
     "Product Line": "Frac Pumping Equipment",
@@ -201,7 +165,7 @@
     "Net QTY": 2,
     "Overstock Unit Price": "-",
     "Overstock Ext Price": "-",
-    "Unit Price": "68818"
+    "Unit Price": 68818
   },
   {
     "Product Line": "Frac Pumping Equipment",
@@ -213,7 +177,7 @@
     "Net QTY": 2,
     "Overstock Unit Price": "-",
     "Overstock Ext Price": "-",
-    "Unit Price": "94064"
+    "Unit Price": 94064
   },
   {
     "Product Line": "Frac Pumping Equipment",
@@ -225,7 +189,7 @@
     "Net QTY": 2,
     "Overstock Unit Price": "-",
     "Overstock Ext Price": "-",
-    "Unit Price": "159500"
+    "Unit Price": 159500
   },
   {
     "Product Line": "Proppant Handling",
@@ -289,27 +253,27 @@
   },
   {
     "Product Line": "Cementing",
-    "Product Family": "Jet Mixer",
+    "Product Family": "Ground Mixer",
     "Product Model": "",
     "Facility Name": "Wilco Duncan",
-    "Part No": "302500",
+    "Part No": 302500,
     "Description": "Assembly, Ground Mixer, Jet, With 3 Jets",
     "Net QTY": 1,
     "Overstock Unit Price": "-",
     "Overstock Ext Price": "-",
-    "Unit Price": "9500"
-  },  
+    "Unit Price": 9500
+  },
   {
     "Product Line": "Cementing",
     "Product Family": "Sample Catcher",
     "Product Model": "",
     "Facility Name": "Wilco Duncan",
-    "Part No": "400465",
+    "Part No": 400465,
     "Description": "Assembly, Automatic Samble Catcher",
     "Net QTY": 3,
     "Overstock Unit Price": "-",
     "Overstock Ext Price": "-",
-    "Unit Price": "Call for Pricing"
+    "Unit Price": "Call For Pricing"
   },
   {
     "Product Line": "Wireline Pressure Control Equipment",
