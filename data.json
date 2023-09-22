@@ -138,7 +138,7 @@
     "Facility Name": "Rolligon Anderson",
     "Part No": "",
     "Description": "Engine, CAT C4.4, Tier 4F, 110hp",
-    "Net QTY": 2,
+    "Net QTY": 3,
     "Overstock Unit Price": "-",
     "Overstock Ext Price": "-",
     "Unit Price": 26289
@@ -154,18 +154,6 @@
     "Overstock Unit Price": "-",
     "Overstock Ext Price": "-",
     "Unit Price": 45717
-  },
-  {
-    "Product Line": "Frac Pumping Equipment",
-    "Product Family": "Stock Engine",
-    "Product Model": "QSL9",
-    "Facility Name": "Rolligon Anderson",
-    "Part No": "",
-    "Description": "Engine, Cummins QSL9, Tier 4F, 380hp",
-    "Net QTY": 2,
-    "Overstock Unit Price": "-",
-    "Overstock Ext Price": "-",
-    "Unit Price": 68818
   },
   {
     "Product Line": "Frac Pumping Equipment",
