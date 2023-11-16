@@ -49,6 +49,30 @@
   },
   {
     "Product Line": "Coiled Tubing PCE",
+    "Product Family": "CT Blowout Preventers (BOPs)",
+    "Product Model": "ES46L",
+    "Facility Name": "Dubai – Jebel Ali Coiled Tubing",
+    "Part No": "ES46-L469X",
+    "Description": "Quad, 4.06, 15M, Dressed for 2.00” CT (can be redressed)",
+    "Net QTY": 1,
+    "Overstock Unit Price": "",
+    "Overstock Ext Price": "",
+    "Unit Price": "Call for Pricing"
+  },
+  {
+    "Product Line": "Coiled Tubing PCE",
+    "Product Family": "CT Blowout Preventers (BOPs)",
+    "Product Model": "ES46N",
+    "Facility Name": "Dubai – Jebel Ali Coiled Tubing",
+    "Part No": "ES46-N469X",
+    "Description": "Dual Combi, 4.06, 15M, Pipe/Slip, Shear/Seal, Dressed for 2.00” CT (can be redressed)",
+    "Net QTY": 1,
+    "Overstock Unit Price": "",
+    "Overstock Ext Price": "",
+    "Unit Price": "Call for Pricing"
+  },
+  {
+    "Product Line": "Coiled Tubing PCE",
     "Product Family": "PCE Accessories",
     "Product Model": "CE56",
     "Facility Name": "Texas Oil Tools Conroe",
