@@ -73,30 +73,6 @@
   },
   {
     "Product Line": "Coiled Tubing PCE",
-    "Product Family": "PCE Accessories",
-    "Product Model": "CE56",
-    "Facility Name": "Texas Oil Tools Conroe",
-    "Part No": "M60TOT-CE56X166B",
-    "Description": "FLOW X, 5.12 15M BX169 W/2\" BX152",
-    "Net QTY": 2,
-    "Overstock Unit Price": "-",
-    "Overstock Ext Price": "-",
-    "Unit Price": "Call For Pricing"
-  },
-  {
-    "Product Line": "Coiled Tubing PCE",
-    "Product Family": "CT Stripper Packers",
-    "Product Model": "DSN6",
-    "Facility Name": "Texas Oil Tools Conroe",
-    "Part No": "",
-    "Description": "OVER/UNDER STRIPPER PACKER, 5.12 thru bore, 5.12 15M BX169 Bottom Flange",
-    "Net QTY": 1,
-    "Overstock Unit Price": "-",
-    "Overstock Ext Price": "-",
-    "Unit Price": "CALL FOR PRICING"
-  },
-  {
-    "Product Line": "Coiled Tubing PCE",
     "Product Family": "CT Blowout Preventors (BOPs)",
     "Product Model": "ES46L",
     "Facility Name": "Texas Oil Tools Conroe",
@@ -118,6 +94,30 @@
     "Overstock Unit Price": "",
     "Overstock Ext Price": "",
     "Unit Price": "CERTIFIED PRE-OWNED (CPO)"
+  },
+  {
+    "Product Line": "Coiled Tubing PCE",
+    "Product Family": "PCE Accessories",
+    "Product Model": "CE56",
+    "Facility Name": "Texas Oil Tools Conroe",
+    "Part No": "M60TOT-CE56X166B",
+    "Description": "FLOW X, 5.12 15M BX169 W/2\" BX152",
+    "Net QTY": 2,
+    "Overstock Unit Price": "-",
+    "Overstock Ext Price": "-",
+    "Unit Price": "Call For Pricing"
+  },
+  {
+    "Product Line": "Coiled Tubing PCE",
+    "Product Family": "CT Stripper Packers",
+    "Product Model": "DSN6",
+    "Facility Name": "Texas Oil Tools Conroe",
+    "Part No": "",
+    "Description": "OVER/UNDER STRIPPER PACKER, 5.12 thru bore, 5.12 15M BX169 Bottom Flange",
+    "Net QTY": 1,
+    "Overstock Unit Price": "-",
+    "Overstock Ext Price": "-",
+    "Unit Price": "CALL FOR PRICING"
   },
   {
     "Product Line": "Frac Pumping Equipment",
