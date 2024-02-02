@@ -9,7 +9,7 @@
     "Net QTY": 1,
     "Overstock Unit Price": "",
     "Overstock Ext Price": "",
-    "Unit Price": "Call For Pricing"
+    "Unit Price": "Pending PO, Call For Availability"
   },
   {
     "Product Line": "Coiled Tubing Units",
@@ -21,19 +21,43 @@
     "Net QTY": 1,
     "Overstock Unit Price": "",
     "Overstock Ext Price": "",
-    "Unit Price": "Call For Pricing"
+    "Unit Price": "Pending PO, Call For Availability"
   },
   {
     "Product Line": "Coiled Tubing Units",
-    "Product Family": "Coiled Tubing Lifting Frame",
-    "Product Model": "LFA35D + CSD05A",
-    "Facility Name": "Hydra Rig UK",
-    "Part No": "",
-    "Description": "350Ton SWL Dual Pivoting Coiled Tubing Lifting Frame + Control Stand and Hose Basket",
+    "Product Family": "Coiled Tubing Injectors",
+    "Product Model": "HR-680 Injector",
+    "Facility Name": "Hydra Rig Fort Worth",
+    "Part No": "Ref:  CC302531",
+    "Description": "HR-680 Injector w/100\" HAF Tubing Guide, Dressed 2\" Diameter Gripper, Hydraulic Load Cell, Certified Pre-Owned (CPO)",
     "Net QTY": 1,
-    "Overstock Unit Price": "-",
-    "Overstock Ext Price": "-",
-    "Unit Price": "Call For Pricing"
+    "Overstock Unit Price": "",
+    "Overstock Ext Price": "",
+    "Unit Price": "Pending PO, Call For Availability"
+  },
+  {
+    "Product Line": "Coiled Tubing Units",
+    "Product Family": "Coiled Tubing Injectors",
+    "Product Model": "HR-680 Injector",
+    "Facility Name": "Hydra Rig Fort Worth",
+    "Part No": "Ref:  CC302827",
+    "Description": "HR-680 Injector w/100\" HAF Tubing Guide, Dressed 2\" Diameter Gripper, Hydraulic Load Cell, Certified Pre-Owned (CPO)",
+    "Net QTY": 1,
+    "Overstock Unit Price": "",
+    "Overstock Ext Price": "",
+    "Unit Price": "Pending PO, Call For Availability"
+  },
+  {
+    "Product Line": "Coiled Tubing Units",
+    "Product Family": "Coiled Tubing Injectors",
+    "Product Model": "HR-680 Injector",
+    "Facility Name": "Hydra Rig Fort Worth",
+    "Part No": "Ref:  CC302827",
+    "Description": "HR-680 Injector w/100\" HAF Tubing Guide, Dressed 2\" Diameter Gripper, Hydraulic Load Cell, Certified Pre-Owned (CPO)",
+    "Net QTY": 1,
+    "Overstock Unit Price": "",
+    "Overstock Ext Price": "",
+    "Unit Price": "Pending PO, Call For Availability"
   },
   {
     "Product Line": "Coiled Tubing Units",
@@ -86,6 +110,30 @@
   {
     "Product Line": "Coiled Tubing PCE",
     "Product Family": "CT Blowout Preventers (BOPs)",
+    "Product Model": "ES44N",
+    "Facility Name": "Hydra Rig UK",
+    "Part No": "M60TOT-ES44N44",
+    "Description": "Dual Combi BOP, 10,000psi WP, CB44 Quick unions.  Dressed 1.75”. With 3rd Party certification.",
+    "Net QTY": 1,
+    "Overstock Unit Price": "",
+    "Overstock Ext Price": "",
+    "Unit Price": "Call for Pricing"
+  },
+  {
+    "Product Line": "Coiled Tubing PCE",
+    "Product Family": "CT Blowout Preventers (BOPs)",
+    "Product Model": "ES46N",
+    "Facility Name": "Hydra Rig UK",
+    "Part No": "M60TOT-ES46N51",
+    "Description": "M60TOT-ES46N51   Dual Combi BOP, 15,000psi WP, BX155 flanged.          Dressed 2.00” With 3rd Party certification.",
+    "Net QTY": 1,
+    "Overstock Unit Price": "",
+    "Overstock Ext Price": "",
+    "Unit Price": "Call for Pricing"
+  },
+  {
+    "Product Line": "Coiled Tubing PCE",
+    "Product Family": "CT Blowout Preventers (BOPs)",
     "Product Model": "ES46L",
     "Facility Name": "Texas Oil Tools Conroe",
     "Part No": "TBD",
@@ -114,6 +162,18 @@
     "Facility Name": "Texas Oil Tools Conroe",
     "Part No": "",
     "Description": "OVER/UNDER STRIPPER PACKER, 5.12 thru bore, 5.12 15M BX169 Bottom Flange",
+    "Net QTY": 1,
+    "Overstock Unit Price": "-",
+    "Overstock Ext Price": "-",
+    "Unit Price": "CALL FOR PRICING"
+  },
+  {
+    "Product Line": "Coiled Tubing PCE",
+    "Product Family": "CT Stripper Packers",
+    "Product Model": "DSA4",
+    "Facility Name": "Texas Oil Tools Conroe",
+    "Part No": "DSA4-1445X",
+    "Description": "Single Side door stripper packer, 10,000psi WP, CB44 Quick union.  Dressed 1.75”. With 3rd Party certification.",
     "Net QTY": 1,
     "Overstock Unit Price": "-",
     "Overstock Ext Price": "-",
