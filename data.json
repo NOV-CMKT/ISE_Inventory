@@ -72,42 +72,6 @@
     "Unit Price": "Call For Price"
   },
   {
-    "Product Line": "Coiled Tubing Units",
-    "Product Family": "Coiled Tubing Work Reels",
-    "Product Model": "",
-    "Facility Name": "Hydra Rig Calgary",
-    "Part No": "",
-    "Description": "142” OD x 80” Core x72” Width DID Reel Spool",
-    "Net QTY": 1,
-    "Overstock Unit Price": "-",
-    "Overstock Ext Price": "-",
-    "Unit Price": "Call For Pricing"
-  },
-  {
-    "Product Line": "Coiled Tubing PCE",
-    "Product Family": "CT Blowout Preventers (BOPs)",
-    "Product Model": "ES46L",
-    "Facility Name": "Dubai – Jebel Ali Coiled Tubing",
-    "Part No": "ES46-L469X",
-    "Description": "Quad, 4.06, 15M, Dressed for 2.00” CT (can be redressed)",
-    "Net QTY": 1,
-    "Overstock Unit Price": "",
-    "Overstock Ext Price": "",
-    "Unit Price": "Call for Pricing"
-  },
-  {
-    "Product Line": "Coiled Tubing PCE",
-    "Product Family": "CT Blowout Preventers (BOPs)",
-    "Product Model": "ES46N",
-    "Facility Name": "Dubai – Jebel Ali Coiled Tubing",
-    "Part No": "ES46-N469X",
-    "Description": "Dual Combi, 4.06, 15M, Pipe/Slip, Shear/Seal, Dressed for 2.00” CT (can be redressed)",
-    "Net QTY": 1,
-    "Overstock Unit Price": "",
-    "Overstock Ext Price": "",
-    "Unit Price": "Call for Pricing"
-  },
-  {
     "Product Line": "Coiled Tubing PCE",
     "Product Family": "CT Blowout Preventers (BOPs)",
     "Product Model": "ES44N",
@@ -159,7 +123,7 @@
     "Product Line": "Coiled Tubing PCE",
     "Product Family": "CT Stripper Packers",
     "Product Model": "DSA4",
-    "Facility Name": "Texas Oil Tools Conroe",
+    "Facility Name": "Hydra Rig UK",
     "Part No": "DSA4-1445X",
     "Description": "Single Side door stripper packer, 10,000psi WP, CB44 Quick union.  Dressed 1.75”. With 3rd Party certification.",
     "Net QTY": 1,
