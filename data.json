@@ -155,67 +155,7 @@
     "Overstock Ext Price": "-",
     "Unit Price": "Call For Pricing"
   },
-  {
-    "Product Line": "Frac Pumping Equipment",
-    "Product Family": "Stock Engine",
-    "Product Model": "C4.4",
-    "Facility Name": "Rolligon Anderson",
-    "Part No": "",
-    "Description": "Engine, CAT C4.4, Tier 4F, 110hp",
-    "Net QTY": 2,
-    "Overstock Unit Price": "-",
-    "Overstock Ext Price": "-",
-    "Unit Price": 26289
-  },
-  {
-    "Product Line": "Frac Pumping Equipment",
-    "Product Family": "Stock Engine",
-    "Product Model": "QSB6.7",
-    "Facility Name": "Rolligon Anderson",
-    "Part No": "",
-    "Description": "Engine, Cummins QSB6.7, Tier 4F, 300hp",
-    "Net QTY": 1,
-    "Overstock Unit Price": "-",
-    "Overstock Ext Price": "-",
-    "Unit Price": 45717
-  },
-  {
-    "Product Line": "Frac Pumping Equipment",
-    "Product Family": "Stock Engine",
-    "Product Model": "QSX15",
-    "Facility Name": "Rolligon Anderson",
-    "Part No": "",
-    "Description": "Engine, Cummins QSX15, Tier 4F, 675hp",
-    "Net QTY": 2,
-    "Overstock Unit Price": "-",
-    "Overstock Ext Price": "-",
-    "Unit Price": 94064
-  },
-  {
-    "Product Line": "Frac Pumping Equipment",
-    "Product Family": "Stock Engine",
-    "Product Model": "QSK23",
-    "Facility Name": "Rolligon Anderson",
-    "Part No": "",
-    "Description": "Engine, Cummins QSK23, Tier 4F, 1050hp",
-    "Net QTY": 2,
-    "Overstock Unit Price": "-",
-    "Overstock Ext Price": "-",
-    "Unit Price": 159500
-  },
-  {
-    "Product Line": "Proppant Handling",
-    "Product Family": "SandBank",
-    "Product Model": "SB3",
-    "Facility Name": "Rolligon Anderson",
-    "Part No": "",
-    "Description": "6 Silos, Primary Base, Secondary Base, Drive Over Loader, and 3 Transport Trailers",
-    "Net QTY": 1,
-    "Overstock Unit Price": "-",
-    "Overstock Ext Price": "-",
-    "Unit Price": "Call For Pricing"
-  },
-  {
+    {
     "Product Line": "Coil Tubing Support Pumps",
     "Product Family": "Twin Fluid Pump",
     "Product Model": "QPT-3002-T",
