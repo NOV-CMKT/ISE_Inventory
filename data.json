@@ -133,24 +133,12 @@
   },
   {
     "Product Line": "Frac Pumping Equipment",
-    "Product Family": "Frac Unit",
-    "Product Model": "QPT-2501",
-    "Facility Name": "Rolligon Anderson",
-    "Part No": "",
-    "Description": "Trailer Mounted Frac, T4F CAT 3512E DGB Engine, CAT TH55-E90 Transmission",
-    "Net QTY": "Multiple",
-    "Overstock Unit Price": "-",
-    "Overstock Ext Price": "-",
-    "Unit Price": "Call For Pricing"
-  },
-  {
-    "Product Line": "Frac Pumping Equipment",
     "Product Family": "Blender",
     "Product Model": "MT-1512HR",
     "Facility Name": "Rolligon Anderson",
     "Part No": "",
     "Description": "Trailer Mounted 135 BPM Blender, 10\", Dual Manifold, Dual C18 CAT Engines",
-    "Net QTY": "Multiple",
+    "Net QTY": "1",
     "Overstock Unit Price": "-",
     "Overstock Ext Price": "-",
     "Unit Price": "Call For Pricing"
@@ -1764,3 +1752,4 @@
     "Unit Price": "Call For Pricing"
   }
 ]
+
